@@ -8,7 +8,7 @@ You can create any contents that includes images, HTML, shortcodes or event othe
 It saves you a lot of times by managing resuable contents.
 You can export "Reusable Contents" by using WordPress Export and Import options.
 
-### Suggested uages:
+### Suggested uages
 
 *   Announcements
 *   Information
@@ -18,6 +18,17 @@ You can export "Reusable Contents" by using WordPress Export and Import options.
 *   Post Signatures
 *   HTML, CSS, Javascript block of code
 
+### Screenshots
+![1](screenshot-1.png)
+
+![2](screenshot-2.png)
+
+![3](screenshot-3.png)
+
+![4](screenshot-4.png)
+
+![5](screenshot-5.png)
+
 ### Installation
 
 1. Upload Reusable Contents to the /wp-content/plugins/ directory
@@ -26,8 +37,5 @@ You can export "Reusable Contents" by using WordPress Export and Import options.
 ### Meta
 
 Plugin Name: Reusable Contents
-Plugin URI: http://egza.org/blog/3708/new-wordpress-plugin-reusable-contents/
 Description: Add unlimited Reusable Contents, Snippets, images, HTML, block of code to use in posts, pages, widgets as easy as emails signature. No more duplicate contents, create once and reuse.
-Author: Egza
 Version: 0.1
-Author URI: http://egza.org/
